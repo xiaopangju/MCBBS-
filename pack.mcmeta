@@ -1,0 +1,13 @@
+{
+  "pack": {
+   "pack_format": 6,
+   "description": "§6价值4万的资源包！§6"
+               },
+    "language": {
+        "mc_bbs": {
+            "name": "§6MCBBS版中文§6",
+            "region": "§6MCBBS§6",
+            "bidirectional": "false"
+        }
+        }
+}
